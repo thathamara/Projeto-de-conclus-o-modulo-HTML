@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.000
+Olá mundo!
+
+00:00:01.000 --> 00:00:02.000
+Meu nome é thamara!
+
+00:00:03.000 --> 00:00:05.000
+Tenho 21 anos!
+
+
+00:00:08.000 --> 00:00:15.000
+Estudo Física e programação <3 !!!
+
+00:00:30.000 --> 00:00:50.000
+Atualmente terminei o curso no SENAC,agora estou na MACH1 !!!
